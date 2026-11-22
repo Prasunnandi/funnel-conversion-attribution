@@ -1,0 +1,11 @@
+user_id,first_touch_channel,last_touch_channel,touchpoints_count,landing_page,funnel_stage_reached,converted,conversion_value_usd,device_type,drop_off_reason
+USR-10801,Google_Ads,Email_Nurture,5,/enterprise-pricing,PAID_SUBSCRIPTION,1,12000,Desktop_Mac,None
+USR-10802,Organic_Search,Direct_Visit,3,/blog/saas-metrics,PAID_SUBSCRIPTION,1,2400,Desktop_Windows,None
+USR-10803,LinkedIn_Sponsorship,Retargeting_Display,4,/features/security,TRIAL_STARTED,0,0,Desktop_Mac,Pricing_Sticker_Shock
+USR-10804,YouTube_Influencer,Organic_Search,2,/home,SIGNUP_COMPLETED,0,0,Mobile_iOS,Auth_Abandoned
+USR-10805,Direct_Referral,Email_Nurture,6,/enterprise-pricing,PAID_SUBSCRIPTION,1,6000,Desktop_Windows,None
+USR-10806,Google_Ads,Retargeting_Display,3,/features/integrations,WORKSPACE_CONFIGURED,0,0,Desktop_Mac,Feature_Gated
+USR-10807,Organic_Search,Organic_Search,1,/docs/api,LANDING,0,0,Mobile_Android,Auth_Abandoned
+USR-10808,LinkedIn_Sponsorship,Email_Nurture,7,/enterprise-pricing,PAID_SUBSCRIPTION,1,24000,Desktop_Mac,None
+USR-10809,Google_Ads,Direct_Visit,4,/home,TRIAL_STARTED,0,0,Desktop_Windows,Payment_Failed
+USR-10810,Direct_Referral,Direct_Visit,2,/features/security,PAID_SUBSCRIPTION,1,3600,Desktop_Mac,None
